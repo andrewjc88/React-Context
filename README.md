@@ -1,3 +1,5 @@
+extrapolation of wes's example but broken out into component files for clarity
+
 ![](http://wes.io/q8kx/content)
 
 ## React Context
